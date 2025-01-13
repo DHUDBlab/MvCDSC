@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="popzq@mygpu.popzq.com:50155 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="228">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/Ganyanglan/home/Ganyanglan/GZT/New Code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Ganyanglan@10.199.227.229:8122 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/Ganyanglan/GZT/Code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="aiuser1@sh.aigpu.vip:33524 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aiuser1/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guzhengtian@10.199.157.33:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guzhengtian@10.199.157.33:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/TFGCode" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guzhengtian@192.168.196.2:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/F:/guzhengtian/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="guzhengtian@192.168.196.2:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/F:/guzhengtian/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="popzq@mygpu.popzq.com:50155 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/popzq/code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shuserver">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/code" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
